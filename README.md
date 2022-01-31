@@ -4,7 +4,7 @@
 
 ### 1. Vtuber 1.psd file
 Contains the design of the model, separated by layer per part of the body.
-Made in Paint tool sai 2 
+Made in Paint tool sai 2.
 Designed by me.
 
 ### 2. Vtuber 1.cmo3
