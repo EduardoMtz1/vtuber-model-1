@@ -1,0 +1,425 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "Mouth open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup3",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup3",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup4",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup4",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup4",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup4",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup4",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup4",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup6",
+			"Name": "Breath"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup6",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup6",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup6",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBustY",
+			"GroupId": "ParamGroup7",
+			"Name": "Bust Y"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup7",
+			"Name": "Bust X"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup7",
+			"Name": "Fleco Swing"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup7",
+			"Name": "Fleco Squish"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup7",
+			"Name": "Mechon L Swing"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup7",
+			"Name": "Mechon L Squish"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup7",
+			"Name": "Mechon R Swing"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup7",
+			"Name": "Mechon R Squish"
+		},
+		{
+			"Id": "ParamLegL",
+			"GroupId": "ParamGroup8",
+			"Name": "Leg L"
+		},
+		{
+			"Id": "ParamLegR",
+			"GroupId": "ParamGroup8",
+			"Name": "Leg R"
+		},
+		{
+			"Id": "ParamArmL",
+			"GroupId": "ParamGroup8",
+			"Name": "Arm L"
+		},
+		{
+			"Id": "ParamArmR",
+			"GroupId": "ParamGroup8",
+			"Name": "Arm R"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Face"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Eye"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Eyeball"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Brow"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "Body"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "Move Physics"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "Move General"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Fleco",
+			"Name": "Fleco"
+		},
+		{
+			"Id": "Part",
+			"Name": "Mechon izquierdo"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Mechon derecho"
+		},
+		{
+			"Id": "Boca",
+			"Name": "Boca"
+		},
+		{
+			"Id": "Ojos",
+			"Name": "Ojos"
+		},
+		{
+			"Id": "Cabeza",
+			"Name": "Cabeza"
+		},
+		{
+			"Id": "Part21",
+			"Name": "Oreja izquierda"
+		},
+		{
+			"Id": "Part22",
+			"Name": "Oreja Derecha"
+		},
+		{
+			"Id": "Part23",
+			"Name": "Torso bajo"
+		},
+		{
+			"Id": "Part24",
+			"Name": "Torso alto"
+		},
+		{
+			"Id": "Part25",
+			"Name": "Brazo derecho"
+		},
+		{
+			"Id": "Part26",
+			"Name": "Brazo izquierdo"
+		},
+		{
+			"Id": "Part27",
+			"Name": "Torso/Cuello"
+		},
+		{
+			"Id": "Cuello",
+			"Name": "Cuello"
+		},
+		{
+			"Id": "Part28",
+			"Name": "Cabello Back"
+		},
+		{
+			"Id": "Part29",
+			"Name": "Torso back"
+		},
+		{
+			"Id": "Part30",
+			"Name": "Antebrazo izquierdo"
+		},
+		{
+			"Id": "Part31",
+			"Name": "Antebrazo Derecho"
+		},
+		{
+			"Id": "Part32",
+			"Name": "Mano izquierda"
+		},
+		{
+			"Id": "Part33",
+			"Name": "Mano derecha"
+		},
+		{
+			"Id": "PAIzquierda",
+			"Name": "PAIzquierda"
+		},
+		{
+			"Id": "PADerecha",
+			"Name": "PADerecha"
+		},
+		{
+			"Id": "Part34",
+			"Name": "Pie Izquierdo"
+		},
+		{
+			"Id": "Part35",
+			"Name": "Pie Derecho"
+		},
+		{
+			"Id": "PBIzquierda",
+			"Name": "PBIzquierda"
+		},
+		{
+			"Id": "PBDerecha",
+			"Name": "PBDerecha"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Brillo superior"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Brillo inferior"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Labio superior"
+		},
+		{
+			"Id": "Part6",
+			"Name": "Sobre labio"
+		},
+		{
+			"Id": "Part7",
+			"Name": "Labio inferior"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Bajo labio"
+		},
+		{
+			"Id": "Part9",
+			"Name": "Diente superior"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Diente inferior"
+		},
+		{
+			"Id": "Lengua",
+			"Name": "Lengua"
+		},
+		{
+			"Id": "Part11",
+			"Name": "Fondo boca"
+		},
+		{
+			"Id": "Part12",
+			"Name": "Ojo derecho"
+		},
+		{
+			"Id": "Part17",
+			"Name": "Ojo izquierdo"
+		},
+		{
+			"Id": "Part13",
+			"Name": "Parpado"
+		},
+		{
+			"Id": "Ceja",
+			"Name": "Ceja"
+		},
+		{
+			"Id": "Part14",
+			"Name": "Pestaña"
+		},
+		{
+			"Id": "Part15",
+			"Name": "Linea baja"
+		},
+		{
+			"Id": "Part16",
+			"Name": "Pestaña baja"
+		},
+		{
+			"Id": "Brillo",
+			"Name": "Brillo"
+		},
+		{
+			"Id": "Pupila",
+			"Name": "Pupila"
+		},
+		{
+			"Id": "Blanco",
+			"Name": "Blanco"
+		},
+		{
+			"Id": "Parpado2",
+			"Name": "Parpado"
+		},
+		{
+			"Id": "Ceja3",
+			"Name": "Ceja"
+		},
+		{
+			"Id": "Part18",
+			"Name": "Pestaña"
+		},
+		{
+			"Id": "Part19",
+			"Name": "Linea baja"
+		},
+		{
+			"Id": "Part20",
+			"Name": "Pestaña baja"
+		},
+		{
+			"Id": "Brillo3",
+			"Name": "Brillo"
+		},
+		{
+			"Id": "Pupila3",
+			"Name": "Pupila"
+		},
+		{
+			"Id": "Blanco3",
+			"Name": "Blanco"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		]
+	]
+}
